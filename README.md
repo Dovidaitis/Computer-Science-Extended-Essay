@@ -1,7 +1,7 @@
 ## Computer Science Extended Essay
 
-An Essay for the International Baccalaureate May 2022 session
-The essay attained grade A (highest grade)
+An Essay for the International Baccalaureate May 2022 session.
+The essay attained grade A (highest grade).
 It received a raw mark of 29/34
 
 ---
